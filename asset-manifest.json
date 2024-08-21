@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/http//scierke.github.io/bd2-work/static/css/main.d8022e6c.css",
+    "main.js": "/http//scierke.github.io/bd2-work/static/js/main.2a46759d.js",
+    "static/js/453.ab96642f.chunk.js": "/http//scierke.github.io/bd2-work/static/js/453.ab96642f.chunk.js",
+    "static/media/it_description.jpg": "/http//scierke.github.io/bd2-work/static/media/it_description.1abaa694fb5ed7eff954.jpg",
+    "static/media/pcBanner.gif": "/http//scierke.github.io/bd2-work/static/media/pcBanner.b96f67dae5cd6b0b0c29.gif",
+    "static/media/logo.svg": "/http//scierke.github.io/bd2-work/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/http//scierke.github.io/bd2-work/index.html",
+    "main.d8022e6c.css.map": "/http//scierke.github.io/bd2-work/static/css/main.d8022e6c.css.map",
+    "main.2a46759d.js.map": "/http//scierke.github.io/bd2-work/static/js/main.2a46759d.js.map",
+    "453.ab96642f.chunk.js.map": "/http//scierke.github.io/bd2-work/static/js/453.ab96642f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8022e6c.css",
+    "static/js/main.2a46759d.js"
+  ]
+}
